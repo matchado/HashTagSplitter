@@ -6,15 +6,20 @@ A recursive python function to break down hashtags or compound words created by 
 My implementation of the maximum matching algorithm to split compound words or hashtags to multiple words.
 
 
+
+
 Example Usage:
 
 split_hashtag_to_words_all_possibilities("edgeofentertainment")
+
 [['edge', 'of', 'entertainment']]
 
 split_hashtag_to_words_all_possibilities("playtowin")
+
 [['play', 'tow', 'in'], ['play', 'to', 'win']]
 
 split_hashtag_to_words_all_possibilities("datascience")
+
 [['data', 'science'], ['da', 'ta', 'science']]
 
 split_hashtag_to_words_all_possibilities("superbowl")
