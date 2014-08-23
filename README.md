@@ -8,16 +8,16 @@ My implementation of the maximum matching algorithm to split compound words or h
 
 Example Usage:
 
->>> split_hashtag_to_words_all_possibilities("edgeofentertainment")
+split_hashtag_to_words_all_possibilities("edgeofentertainment")
 [['edge', 'of', 'entertainment']]
 
->>> split_hashtag_to_words_all_possibilities("playtowin")
+split_hashtag_to_words_all_possibilities("playtowin")
 [['play', 'tow', 'in'], ['play', 'to', 'win']]
 
->>> split_hashtag_to_words_all_possibilities("datascience")
+split_hashtag_to_words_all_possibilities("datascience")
 [['data', 'science'], ['da', 'ta', 'science']]
 
->>> split_hashtag_to_words_all_possibilities("superbowl")
+split_hashtag_to_words_all_possibilities("superbowl")
 [['superb', 'owl'], ['super', 'bowl'], ['sup', 'er', 'bowl']]
 
 
