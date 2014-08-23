@@ -18,6 +18,7 @@ split_hashtag_to_words_all_possibilities("datascience")
 [['data', 'science'], ['da', 'ta', 'science']]
 
 split_hashtag_to_words_all_possibilities("superbowl")
+
 [['superb', 'owl'], ['super', 'bowl'], ['sup', 'er', 'bowl']]
 
 
