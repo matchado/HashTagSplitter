@@ -14,17 +14,17 @@ Example Usage:
 
 `[['edge', 'of', 'entertainment']]`
 
-`>>>` split_hashtag_to_words_all_possibilities("playtowin")
+`>>> split_hashtag_to_words_all_possibilities("playtowin")`
 
-[['play', 'tow', 'in'], ['play', 'to', 'win']]
+`[['play', 'tow', 'in'], ['play', 'to', 'win']]`
 
-`>>>` split_hashtag_to_words_all_possibilities("datascience")
+`>>> split_hashtag_to_words_all_possibilities("datascience")`
 
-[['data', 'science'], ['da', 'ta', 'science']]
+`[['data', 'science'], ['da', 'ta', 'science']]`
 
-`>>>` split_hashtag_to_words_all_possibilities("superbowl")
+`>>> split_hashtag_to_words_all_possibilities("superbowl")`
 
-[['superb', 'owl'], ['super', 'bowl'], ['sup', 'er', 'bowl']]
+`[['superb', 'owl'], ['super', 'bowl'], ['sup', 'er', 'bowl']]`
 
 
 
