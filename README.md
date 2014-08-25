@@ -10,9 +10,9 @@ My implementation of the maximum matching algorithm to split compound words or h
 
 Example Usage:
 
-`>>>` split_hashtag_to_words_all_possibilities("edgeofentertainment")
+`>>> split_hashtag_to_words_all_possibilities("edgeofentertainment")`
 
-[['edge', 'of', 'entertainment']]
+`[['edge', 'of', 'entertainment']]`
 
 `>>>` split_hashtag_to_words_all_possibilities("playtowin")
 
