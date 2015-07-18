@@ -3,7 +3,7 @@ HashTagSplitter
 
 A recursive python function to break down hashtags or compound words created by putting together multiple words
 
-My implementation of the maximum matching algorithm to split compound words or hashtags to multiple words.
+My implementation of the maximum matching algorithm used in Natural Language Processing (NLP) to split compound words or hashtags to multiple words.
 
 
 
